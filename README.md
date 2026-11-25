@@ -103,7 +103,7 @@ Modern federal guidance (including DoD and OMB cATO memoranda) mandates an evolu
 
 ## 👤 Author & Inquiries
 
-* **Author**: [Kelvin Mramba]
+* **Author**: Kelvin Mramba
 * **Focus**: Federal Cybersecurity Governance, Risk, & Compliance (GRC) | Enterprise Risk Architecture
 * **LinkedIn**: [linkedin.com/in/kelvinmramba](https://linkedin.com/in/kelvinmramba)
 * **Email**: kelvinmramba@gmail.com
